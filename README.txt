@@ -1,9 +1,9 @@
-# 🫁 AI Cough-Based Respiratory Screening System
+🫁 AI Cough-Based Respiratory Screening System
 
-## Overview
+Overview
 This project implements a multi-modal AI system for respiratory risk screening using cough audio analysis and questionnaire data.
 
-## Features
+Features
 - Cough segmentation
 - Acoustic feature extraction (MFCC, RMS, ZCR, Spectral Centroid)
 - Wet/Dry cough classification
@@ -12,14 +12,14 @@ This project implements a multi-modal AI system for respiratory risk screening u
 - Probability-based risk assessment
 - Streamlit web interface
 
-## Tech Stack
+Tech Stack
 - Python
 - Streamlit
 - Librosa
 - Scikit-learn
 - NumPy / Pandas
 
-## How to Run
+How to Run
 
 ```bash
 pip install -r requirements.txt
